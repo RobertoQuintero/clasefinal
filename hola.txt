@@ -1,3 +1,8 @@
 Este es mi primer archivo del proyecto de Git desde cero
 Este archivo fue editado con vim
 Nueva linea en la clase 3
+
+
+
+Este texto es de la rama desarrollo
+Esto debe dar conflictos a la hora de fusionar
