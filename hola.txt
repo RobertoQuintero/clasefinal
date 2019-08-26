@@ -1,3 +1,3 @@
-WELCOME!
 Este es mi primer archivo del proyecto de Git desde cero
 Este archivo fue editado con vim
+Nueva linea en la clase 3
