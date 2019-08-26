@@ -1,3 +1,6 @@
 Este es mi primer archivo del proyecto de Git desde cero
 Este archivo fue editado con vim
 Nueva linea en la clase 3
+
+Estamos en la rama master
+este codigo es de la rama master y la rama desarrollo no sabe que esto existe
